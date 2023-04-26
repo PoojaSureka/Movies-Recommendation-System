@@ -1,37 +1,25 @@
 Data set link https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
-# Movie Recommendation System
+## Movie Recommendation System
 
 A Machine Learning Web App that will recommend the movies as per your choice and preferrence 
 The app is created with the help of Flask and Python
 
-# A glimpse of the web app:
+## A glimpse of the web app:
 
 https://user-images.githubusercontent.com/117584271/234530746-8d4f2205-6809-487d-8363-a5c9185770ad.mp4
 
- 
- 
- 
-# Description
-
+ ## Description
 
 * movie_recommendor_system.ipynb is a notebook document created by Google collab that contains all the notebook code
   and the execution results that has helped in generating the model for the web app.
-* Procfile includes the code '''web: sh setup.sh && streamlit run app.py''' which depicts that gunicorn commands are run by the application's containers on the platform. 
+* Procfile includes the code '''web: sh setup.sh && streamlit run app.py''' which depicts that gunicorn commands are 
+   run by the application's containers on the platform. 
 * README.md includes the stucture that provides a detailed description of my GitHub project.
-
-
-
 * Requirements.txt file includes all the libraries that has been used to create the web app. After installing all the required packages  '''pip freeze > requirements.txt''' command was run on the command prompt to create the requirements.txt file
 
-
-
+ ## Libraries Used
  
-
-
-
-
-## Libraries Used
 This section contains the list of the libraries that have been used to create the web app. 
 '''
 altair==4.2.2
