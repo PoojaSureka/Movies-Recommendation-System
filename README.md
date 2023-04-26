@@ -1,21 +1,18 @@
 Data set link https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
-
 # Movie Recommendation System
 
 A Machine Learning Web App that will recommend the movies as per your choice and preferrence 
 The app is created with the help of Flask and Python
 
+# A glimpse of the web app:
 
-
-## A glimpse of the web app:
+https://user-images.githubusercontent.com/117584271/234530746-8d4f2205-6809-487d-8363-a5c9185770ad.mp4
 
  
  
  
-
-
-## Description
+# Description
 
 
 * movie_recommendor_system.ipynb is a notebook document created by Google collab that contains all the notebook code
