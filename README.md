@@ -36,7 +36,7 @@ The app is created with the help of Flask and Python
 
 ## Libraries Used
 This section contains the list of the libraries that have been used to create the web app. 
-
+'''
 altair==4.2.2
 attrs==22.2.0
 bcrypt==4.0.1
@@ -107,4 +107,4 @@ Werkzeug==2.2.3
 WTForms==3.0.1
 yarg==0.1.9
 zipp==3.15.0
-
+'''
