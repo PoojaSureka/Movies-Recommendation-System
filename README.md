@@ -2,7 +2,7 @@ Data set link https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tm
 
 ## Movie Recommendation System
 
-A Machine Learning Web App that will recommend the movies as per your choice and preferrence 
+A Machine Learning Web App that will recommend the movies as per your choice and preference 
 The app is created with the help of ```Flask``` and ```Python```
 
 ## A glimpse of the web app:
